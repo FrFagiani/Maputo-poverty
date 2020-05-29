@@ -53,14 +53,14 @@ Both the sources has a very low detailed, so it is difficult to provide proper r
 
 Facebook Engineering. (2019, January 25). A new predictive model for more accurate electrical grid mapping. Tratto da Facebook Engineering: https://engineering.fb.com/connectivity/electrical-grid-mapping/
 
-### House material
-The world bank report divide houses in two category for construction material: durable and non-durable.
-Not considered
-
 ### Financial services
 Consider the presence of ATM points and POS operation, in some way identify commercial areas and concentration of formal commerce (much rich)
 
 Sousa, S. (2018, December 7). Street food in Maputo, Mozambique: availability and nutritional value of homemade foods. Nutrition and health, p. 37-46.
+
+### House material
+The world bank report divide houses in two category for construction material: durable and non-durable.
+Not considered
 
 ### Urban morphology
 ### Roof material
