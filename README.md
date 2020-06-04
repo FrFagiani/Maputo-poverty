@@ -21,6 +21,8 @@ To define the wealth level, we consider some factors that influence the poverty 
 - Informal business
 - Financial services
 
+
+
 ### Access to health system
 
 Used the isochrone to define access to health facilities, giving a differend score according to health hierarchy and walking time distance.
