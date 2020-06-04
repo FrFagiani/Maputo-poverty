@@ -1,34 +1,34 @@
 # Maputo poverty profiles
 
-The project aim to identify the wealth level fro each morphological areas identified in greater Maputo area.
-To define the class we consider some factros that strongly influence the poverty rate and that are the followings:
+The goal of this project is to identify and assign a poverty level for each morphological area in the Greater Maputo area.
+There is not a detailed map 
+To define the wealth level, we consider some factors that influence the poverty rate and that affect single family and their houses or the entire neighbour in which they are sited. Some factors are related to neighbourhood rate of services and accessibility, and other to single family availability, resources, income. 
 - access to drinking water at home
 - adequate sanitation at home
 - source of reliable energy
 - access to information and communication technology
-- having a permanent source of income or savings
+- access to public transport
+- access to CBD
+- access to health facilities
+- access to education system
 
-Here some factors that influence poverty rate at the neighbourhood level:
-- public transport stops distance
-- health facilities distance
-- school distance
-- access to basi services (electricity, water, sanitation)
-- durable houses (construction material)
+- having a permanent source of income or savings
+- house construction material
 - building density
 - infrastructure density
 - access to real estate market (affordable houses)
 
-Other considered by us (due to the presence of very detailed data)
+- Informal business
 - Financial services
-related with informal business and formal commerce
 
 ### Access to health system
 
-Used the isochrone to define access to health facilities, giving a differend score according with health jerarchy and walking distance.
+Used the isochrone to define access to health facilities, giving a differend score according to health hierarchy and walking time distance.
+Should we add also pharmacy?
 
 ### Access to education system
 
-TO DO
+Used the isochrone to define access to education system, giving a differend score according to school level and walking time distance.
 
 ### Access to water
 In order to define the access to water we considered water point (AdeM) and water network. The only one report to provide spatial dimension for water (but not updated)
