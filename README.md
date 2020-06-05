@@ -1,14 +1,18 @@
 # Maputo poverty profiles
 
-The goal of this project is to identify and assign a poverty level for each morphological area in the Greater Maputo area.
-There is not a detailed map 
-To define the wealth level, we consider some factors that influence the poverty rate and that affect single family and their houses or the entire neighbour in which they are sited. Some factors are related to neighbourhood rate of services and accessibility, and other to single family availability, resources, income. 
+The goal of this project is to identify and assign a poverty level for each morphological area in the Greater Maputo.
+There is not an existing detailed map of poverty in Maputo, but literature identify many factors that are strictly related to wealth, in Sub-Saharan countries, but also for the peculiar case of Maputo.
+
+To define the wealth level, we consider some factors that influence the poverty rate and that affect single family and their houses or the entire neighbour in which they are sited. Some factors are related to neighbourhood rate of services and accessibility, and other to single family availability, resources, and income. 
+
+Here the complete list.
+
 - access to drinking water at home
 - adequate sanitation at home
 - source of reliable energy
 - access to information and communication technology
 - access to public transport
-- access to CBD
+- access to CBD (Central Business District)
 - access to health facilities
 - access to education system
 
@@ -22,27 +26,28 @@ To define the wealth level, we consider some factors that influence the poverty 
 - Financial services
 
 
-
 ### Access to health system
 
 Used the isochrone to define access to health facilities, giving a differend score according to health hierarchy and walking time distance.
-Should we add also pharmacy?
+
+Should we also add pharmacy?
 
 ### Access to education system
 
 Used the isochrone to define access to education system, giving a differend score according to school level and walking time distance.
 
 ### Access to water
-In order to define the access to water we considered water point (AdeM) and water network. The only one report to provide spatial dimension for water (but not updated)
-Waiting for detailed information and data (as in another Moz region)
 
-Chen, G. (2017, July 19). Shared toilets as the path to health and dignity. Tratto da World Bank: https://blogs.worldbank.org/water/shared-toilets-path-health-and-dignity
+In order to define the access to water we considered water point (AdeM) and water network. The only one report to provide spatial dimension for water sources has been developed in 2011. Worl Bank developed a detailed map of water point in Beira, but no updated information has been found for Maputo.
 
-Club of Mozambique. (2020, February 11). Club of Mozambique. Tratto da Mozambique: FIPAG promises to bring Maputo water supply to 40 per cent – AIM report: https://clubofmozambique.com/news/mozambique-fipag-promises-to-bring-maputo-water-supply-to-40-per-cent-aim-report-152353/
+Chen, G. (2017, July 19). Shared toilets as the path to health and dignity. World Bank: https://blogs.worldbank.org/water/shared-toilets-path-health-and-dignity
+
+Club of Mozambique. (2020, February 11). Club of Mozambique: FIPAG promises to bring Maputo water supply to 40 per cent – AIM report: https://clubofmozambique.com/news/mozambique-fipag-promises-to-bring-maputo-water-supply-to-40-per-cent-aim-report-152353/
 
 Chaponniere, E., & Collignon, B. (2011). PPP with local informal providers aimed at improving water supply in the peri-urban areas of Maputo, Mozambique. WEDC, Loughborough University.
 
 ### Access to CBD
+
 According woth World Bank report, the access to the central business district (CBD) o f Maputo is really important and influence also real estate market and some gentrification process ongoing in greater Maputo.
 We consider access to CBD not just simply as distance, but also considering the level of connection by public transport.
 
