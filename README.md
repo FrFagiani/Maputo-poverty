@@ -70,13 +70,13 @@ Club of Mozambique. (2020, February 11). Club of Mozambique: [FIPAG promises to 
 Chaponniere, E., & Collignon, B. (2011). PPP with local informal providers aimed at improving water supply in the peri-urban areas of Maputo, Mozambique. WEDC, Loughborough University.
 
 
-## Presence of inancial services
+## Presence of financial services
 
 Financial services such as POS, ATM and banks indicates where formal activities are concentrated. The densities of these services confirm the presence of commercial and economic formal activities, but not the informal business. The difference between formal and informal activities and jobs is crucial in Maputo and recent researches address the topic, that has also strong relation with accessibility and public transportation. The density of financial services is particularly high in the CBD and along the main road axes, also seat for public transport lines. In the Greater Maputo area, 53% of all the POS are located within 150 meters from a bus stop, 75% within 250 meters and the percentages increase considering ATM, banks or money exchanges. Financial services and formal activities are related to public transport and they are concentrated in the inner city. They are sources of formal jobs opportunities and wealth. To calculate this indicator the presence of financial services within 250m was considered.
 
-Consider the presence of ATM points and POS operation, in some way identify commercial areas and concentration of formal commerce (much rich)
+Mozambique - National Financial Inclusion Strategy for 2016-2022 : Mid-Term Review (English). . Washington, D.C. : World Bank Group. [Link to document](http://documents.worldbank.org/curated/en/732551572441523589/Mozambique-National-Financial-Inclusion-Strategy-for-2016-2022-Mid-Term-Review)
 
-Sousa, S. (2018, December 7). Street food in Maputo, Mozambique: availability and nutritional value of homemade foods. Nutrition and health, p. 37-46.
+FSDMo. , PDE. (2020, june 30). Financial inclusion. [Retrieved from FSDMo.](https://www.mozgis.gov.mz/portal/apps/MapJournal/index.html?appid=3465b409256d4cb5a7901c22264be0bd)
 
 
 ## Source of reliable energy
@@ -110,3 +110,7 @@ Jones, S., Egger, E.-M., & Santos, R. (2020, April 21). Analysis: The five crite
 Viana, D. L. (2015). (AUTO) Organização e forma urbana: combinando diferentes abordagens morfológicas naa nálise de Maputo. Porto: Faculdade de Engenharia da Universidade do Porto.
 
 Kayleigh B. Campbell, James A. Rising, Jacqueline M. Klopp, Jacinta Mwikali Mbilo (2019). Accessibility across transport modes and residential developments in Nairobi. Journal of Transport Geography, 77-90.
+
+Moreno-Monroy, A. Access to public transport and labor informality. IZA World of Labor 2016: 274 doi: 10.15185/izawol.274
+
+Luis A. Guzman, Daniel Oviedo, Carlos Rivera (2017). Assessing equity in transport accessibility to work and study: The Bogotá region. Journal of Transport Geography, 236-246.
