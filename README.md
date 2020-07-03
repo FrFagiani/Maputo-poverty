@@ -42,7 +42,7 @@ The access to healthcare facilities is crucial and has a strong impact on people
 The walking distance and the level of the school considered are factors even more relevant than for the health system. In order to support school attendance, especially primary and secondary schools, these facilities must be easily accessible on foot by students. In the poorest areas it is crucial due to the high risk of dropping out of school. World Bank reports on Maputo show the correlation between poverty and greater distance from primary and secondary schools. The same indicator was created analysing international schools and universities, in these cases walking distance is less relevant, while high accessibility by public transport is more relevant.
 
 
-## Accessibility to public transport stops
+## Access to public transport stops
 
 Walking is the main travel mode in Maputo, especially poor people used to travel long distances on foot to reach their destination, they do not own a car and they save money of public transport tickets. 
 However certain travels are too long for walking. Public transport is essential for poor, commuting distance is often a key factor for wealth. Recent resources demonstrate correlation between mode of transport and access to formal job opportunities.
@@ -50,7 +50,7 @@ Walking and public transport movements are often integrated, most of the people 
 This indicator analyses accessibility to public transport stops, considering their walking distance from the trip origin. The weight of public transport is relevant in Maputo, approximately 60% of all non-walking trips were made by chapas and 17% by conventional buses.
 
 
-## Accessibility to CBD
+## Access to CBD
 
 In the Central Business District there is a high density of services and the main economic and commercial activities are concentrated there. Access to this place determines social inclusion, mainly because of the formal job opportunities are generated there. Several research studies have recently analysed the benefits and issues triggered by accessibility to CBD in low and middle-income countries main cities. Access to the CBD must be as fair as possible and public transport has a primary role in this sense. Public transport guarantees connection between CBD and periphery, which otherwise would be excluded from opportunities concentrated in the city center, especially by those who do not own the car. The indicator is affected both by the distance from public transport stops, and by the direction and the route of the individual lines that pass through those stops. For each area has been calculated the connection with every single public transport line (Mapathon 2019). For each public transport line has been calculated its connection with CBD. Then, travel times along the line and stop waiting times have been considered in processing the actual time taken to reach the CBD.
 
@@ -63,9 +63,9 @@ In order to define the access to water we considered water point (AdeM) and wate
 
 #### References
 
-Chen, G. (2017, July 19). Shared toilets as the path to health and dignity. World Bank: https://blogs.worldbank.org/water/shared-toilets-path-health-and-dignity
+Chen, G. (2017, July 19). Shared toilets as the path to health and dignity. [World Bank blogs](https://blogs.worldbank.org/water/shared-toilets-path-health-and-dignity)
 
-Club of Mozambique. (2020, February 11). Club of Mozambique: FIPAG promises to bring Maputo water supply to 40 per cent – AIM report: https://clubofmozambique.com/news/mozambique-fipag-promises-to-bring-maputo-water-supply-to-40-per-cent-aim-report-152353/
+Club of Mozambique. (2020, February 11). Club of Mozambique: [FIPAG promises to bring Maputo water supply to 40 per cent – AIM report](https://clubofmozambique.com/news/mozambique-fipag-promises-to-bring-maputo-water-supply-to-40-per-cent-aim-report-152353/)
 
 Chaponniere, E., & Collignon, B. (2011). PPP with local informal providers aimed at improving water supply in the peri-urban areas of Maputo, Mozambique. WEDC, Loughborough University.
 
@@ -88,7 +88,7 @@ Both the sources has a very low detailed, so it is difficult to provide proper r
 
 #### References
 
-Facebook Engineering. (2019, January 25). A new predictive model for more accurate electrical grid mapping. Facebook Engineering: https://engineering.fb.com/connectivity/electrical-grid-mapping/
+Facebook Engineering. (2019, January 25). A new predictive model for more accurate electrical grid mapping. [Facebook Engineering](https://engineering.fb.com/connectivity/electrical-grid-mapping/)
 
 
 ## House material
@@ -105,7 +105,7 @@ Not considered because no available data about housing construction material hav
 
 World Bank. 2017. Greater Maputo : Urban Poverty and Inclusive Growth. World Bank, Washington, DC. © World Bank.
 
-Jones, S., Egger, E.-M., & Santos, R. (2020, April 21). Analysis: The five criteria low income countries must have in place for lockdowns to work. Tratto da Club of Mozambique: https://clubofmozambique.com/news/analysis-the-five-criteria-low-income-countries-must-have-in-place-for-lockdowns-to-work-158244/
+Jones, S., Egger, E.-M., & Santos, R. (2020, April 21). Analysis: The five criteria low income countries must have in place for lockdowns to work. [Club of Mozambique](https://clubofmozambique.com/news/analysis-the-five-criteria-low-income-countries-must-have-in-place-for-lockdowns-to-work-158244/)
 
 Viana, D. L. (2015). (AUTO) Organização e forma urbana: combinando diferentes abordagens morfológicas naa nálise de Maputo. Porto: Faculdade de Engenharia da Universidade do Porto.
 
