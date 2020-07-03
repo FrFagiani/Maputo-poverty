@@ -74,6 +74,8 @@ Chaponniere, E., & Collignon, B. (2011). PPP with local informal providers aimed
 
 Financial services such as POS, ATM and banks indicates where formal activities are concentrated. The densities of these services confirm the presence of commercial and economic formal activities, but not the informal business. The difference between formal and informal activities and jobs is crucial in Maputo and recent researches address the topic, that has also strong relation with accessibility and public transportation. The density of financial services is particularly high in the CBD and along the main road axes, also seat for public transport lines. In the Greater Maputo area, 53% of all the POS are located within 150 meters from a bus stop, 75% within 250 meters and the percentages increase considering ATM, banks or money exchanges. Financial services and formal activities are related to public transport and they are concentrated in the inner city. They are sources of formal jobs opportunities and wealth. To calculate this indicator the presence of financial services within 250m was considered.
 
+#### References
+
 Mozambique - National Financial Inclusion Strategy for 2016-2022 : Mid-Term Review (English). Washington, D.C. [World Bank Group](http://documents.worldbank.org/curated/en/732551572441523589/Mozambique-National-Financial-Inclusion-Strategy-for-2016-2022-Mid-Term-Review)
 
 FSDMo. , PDE. (access 2020, june 30). Financial inclusion. [Retrieved from FSDMo.](https://www.mozgis.gov.mz/portal/apps/MapJournal/index.html?appid=3465b409256d4cb5a7901c22264be0bd)
